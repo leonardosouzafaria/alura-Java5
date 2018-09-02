@@ -1,2 +1,3 @@
 # alura-Java5
-Exercicios do curso Java - 5 da Alura
+
+Exercícios do Curso <a href="https://cursos.alura.com.br/course/java-pacotes-e-java-lang">Java 5</a> da Alura
