@@ -28,6 +28,11 @@ public abstract class Conta {
 		// this.saldo = 100;
 		// System.out.println("Estou criando uma conta " + this.numero);
 	}
+	
+	//ToString()
+	public String toString() {
+		return "número : " + this.getNumero() + ", Agencia : " +this.getAgencia();
+	}
 
 	public abstract void deposita(double valor);
 	
